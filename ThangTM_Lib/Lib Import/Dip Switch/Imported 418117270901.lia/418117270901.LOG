@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : 418117270901.LibPkg
+
+Section : C:\Users\admin\Google Drive\ThangTM_Lib\Lib Import\Dip Switch\418117270901.lia
+    Section : PCB Library - 418117270901.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 104
+            Warning - 1 : Skipping Token isVisible On Line 109
+            Warning - 1 : Skipping Token 1POLE On Line 115
+            Warning - 1 : Skipping Token attachedSymbol On Line 169
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*418117270901][Primary] associated with PCAD Component [418117270901] has been renamed to PCB FootPrint [*418117270901_418117270901(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 418117270901.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - 418117270901.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*418117270901][Primary] associated with PCAD Component [418117270901] has been renamed to PCB FootPrint [*418117270901_418117270901(Primary)].
+        EndSection
+    EndSection
+EndSection

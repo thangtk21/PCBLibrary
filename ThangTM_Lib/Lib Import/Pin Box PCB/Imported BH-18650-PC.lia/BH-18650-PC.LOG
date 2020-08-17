@@ -1,0 +1,38 @@
+PCAD Importer Log
+Project : BH-18650-PC.LibPkg
+
+Section : C:\Users\admin\Google Drive\ThangTM_Lib\Lib Import\Pin Box PCB\BH-18650-PC.lia
+    Section : PCB Library - BH-18650-PC.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 108
+            Warning - 1 : Skipping Token isVisible On Line 109
+            Warning - 1 : Skipping Token isVisible On Line 118
+            Warning - 1 : Skipping Token isVisible On Line 119
+            Warning - 1 : Skipping Token isVisible On Line 142
+            Warning - 1 : Skipping Token isVisible On Line 143
+            Warning - 1 : Skipping Token BH-18650-PC On Line 147
+            Warning - 1 : Skipping Token attachedSymbol On Line 194
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*BAT_BH-18650-PC][Primary] associated with PCAD Component [BH-18650-PC] has been renamed to PCB FootPrint [*BAT_BH-18650-PC_BH-18650-PC(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - BH-18650-PC.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 121
+            Warning - 1 : Skipping Token layerContents On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 137
+        EndSection
+
+        Section : Generating SCH Library - BH-18650-PC.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*BAT_BH-18650-PC][Primary] associated with PCAD Component [BH-18650-PC] has been renamed to PCB FootPrint [*BAT_BH-18650-PC_BH-18650-PC(Primary)].
+        EndSection
+    EndSection
+EndSection

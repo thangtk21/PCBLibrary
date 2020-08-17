@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : NCP18WF104J03RB.LibPkg
+
+Section : C:\Users\admin\Google Drive\ThangTM_Lib\Lib Import\NCP18WF104J03RB\NCP18WF104J03RB.lia
+    Section : PCB Library - NCP18WF104J03RB.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token NCP18WF104J03RB On Line 135
+            Warning - 1 : Skipping Token attachedSymbol On Line 190
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - NCP18WF104J03RB.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token layerContents On Line 127
+        EndSection
+
+        Section : Generating SCH Library - NCP18WF104J03RB.SchLib
+        EndSection
+    EndSection
+EndSection

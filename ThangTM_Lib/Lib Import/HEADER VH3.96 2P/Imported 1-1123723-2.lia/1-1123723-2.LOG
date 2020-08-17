@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 1-1123723-2.LibPkg
+
+Section : C:\Users\admin\Google Drive\ThangTM_Lib\Lib Import\HEADER VH3.96 2P\1-1123723-2.lia
+    Section : PCB Library - 1-1123723-2.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1-1123723-2 On Line 152
+            Warning - 1 : Skipping Token attachedSymbol On Line 205
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1-1123723-2.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token layerContents On Line 138
+        EndSection
+
+        Section : Generating SCH Library - 1-1123723-2.SchLib
+        EndSection
+    EndSection
+EndSection

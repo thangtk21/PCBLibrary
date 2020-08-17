@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : DR125-331-R.LibPkg
+
+Section : C:\Users\Minh Thang\Google Drive\ThangTM_Lib\Lib Import\DR125-331-R\DR125-331-R.lia
+    Section : PCB Library - DR125-331-R.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token IND On Line 121
+            Warning - 1 : Skipping Token attachedSymbol On Line 173
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - DR125-331-R.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - DR125-331-R.SchLib
+        EndSection
+    EndSection
+EndSection
